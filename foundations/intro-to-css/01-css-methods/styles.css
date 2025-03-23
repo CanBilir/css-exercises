@@ -1,0 +1,18 @@
+div {
+  background-color: red;
+  color: white;
+  font-weight: bold;
+  text-align: center;
+  font-size: 32px;
+}
+
+footer {
+  background-color: rgba(124, 185, 165, 0.5);
+  margin-top: 38%;
+}
+
+.footer-text {
+  background: none;
+  color: black;
+  font-weight: bold;
+}
